@@ -1,0 +1,2 @@
+Projekt pogodynki. 
+Android Studio.
