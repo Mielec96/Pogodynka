@@ -1,0 +1,2 @@
+rootProject.name='pogodejszyn'
+include ':app'
